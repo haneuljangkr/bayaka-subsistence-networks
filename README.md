@@ -3,7 +3,7 @@ Data, code and manuscript for "Women’s subsistence networks scaffold cultural 
 
 ## The manuscript can be found at:
 
-- Science Advances: https://www.sciencedirect.com/science/article/abs/pii/S1090513822000484
+- Science Advances: https://www.science.org/doi/10.1126/sciadv.adj2543
 
 ## Requirements for analyses:
 
